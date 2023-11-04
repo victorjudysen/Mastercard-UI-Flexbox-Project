@@ -31,6 +31,7 @@ body {
 .container:hover {
   transform: scale(1.05);
   background-color: aqua;
+  font-weight: 700;
 }
 
 header, .logo {
