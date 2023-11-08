@@ -56,6 +56,11 @@ h5.number {
   font-size: 19.5px;
 }
 
+h5.card-foundation {
+  font-size: 17px;
+  font-weight: 600;
+}
+
 h6 {
   color: #000000;
   font-size: 15px;
